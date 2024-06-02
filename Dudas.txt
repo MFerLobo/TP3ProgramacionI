@@ -1,0 +1,18 @@
+EJ8 y EJ9: llega hasta numeros de 9 cifras, cuando uso uno de 10 empieza a tener problemas.
+
+EJ13: puedo llamar una variable para comparar una igualdad en for? lo intenté y no me funcionó (está en EJ13otravez)
+	Ejemplo: 
+	    for(num1;num1==num2;num++)
+	    {
+  	      resto=num1%2;
+   	     if(resto==0)
+   	         printf("%d\n", num1);
+	    {
+
+	ya habia usado algo parecido en el 11 con la unica diferencia que veo es el uso de la variable para comparar
+	    for(num=50;num;num--)
+ 	    {
+  	      resto=num%2;
+    	      if(resto==0)
+     	      printf("%d\n", num);
+  	    }
